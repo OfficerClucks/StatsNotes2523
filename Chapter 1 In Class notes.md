@@ -11,6 +11,13 @@ Basic probability, probability models, and introduction to discrete and continuo
 
  A probability measure, denoted as P, must satisfy two key properties: the probability of the whole space is 1, and the probability of the empty event is 0.
 
-**The Classical Interpretation of Probability**: Assumes that all outcomes are equally likely to happen. An example of this would be a coin toss. Two equally likely results. The **formula of calculating probability** is: 
+**The Classical Interpretation of Probability:** Assumes that all outcomes are equally likely to happen. An example of this would be a coin toss. Two equally likely results. The **formula of calculating probability** is: 
 ![image](https://github.com/user-attachments/assets/41a5137c-da95-4dc0-a4c8-f54d63a91225)
 The number of ways an event (A) can occur is effectively a sample size. The classical approach faces issues when the data doesn't have an equal chance of occurring. In which you would use another method such as the empirical or subjective approach. 
+
+**The relative frequency view of probability:** An approximation of probability is a method that relies on observations and empirical data. When observing a coin flip multiple times it might not be 50/50
+The Key steps are:
+1. Conduct Procedure: Repeat the procedure a specific number of times.
+2. Count Occurences: In each repetition, count the number of times the event 'A' occurs
+3. Calculate Probability Estimite: Use the formula below.
+![image](https://github.com/user-attachments/assets/e4117944-013a-45a0-960f-dfabc51ec777)
