@@ -7,6 +7,7 @@ defined sample space
 - Ω a sample space often represented as a rectangle or square
 - Objectivits: Relate probability to the relative frequency of outcomes
 - Subjectivits: View it as a degree of belief called **Bayesian probability**
+
 A probability measure, denoted as P, must satisfy two key
 properties: the probability of the whole space is 1, and the probability of the empty event is 0.
 - 
