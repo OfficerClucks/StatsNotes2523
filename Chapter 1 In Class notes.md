@@ -1,9 +1,10 @@
 # Probability Fundamentals 
-Basic probability, probability models, an introduction to discrete and continuous random variables.
+Basic probability, probability models, and introduction to discrete and continuous random variables.
 
 # What is Probability?
-- Probability, denoted as *P(A)* are maps that assign numbers to subsets within a
-defined sample space
+- Probability, denoted as *P(A)* are maps that assign numbers to subsets within a defined sample space. Probability has to be within 0 - 1 
+![image](https://github.com/user-attachments/assets/853750dc-b70a-4f25-87de-9a0c3134fe60)
+
 - Ω a sample space often represented as a rectangle or square
 - Objectivits: Relate probability to the relative frequency of outcomes
 - Subjectivits: View it as a degree of belief called **Bayesian probability**
