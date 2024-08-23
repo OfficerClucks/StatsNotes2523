@@ -10,4 +10,6 @@ defined sample space
 
   A probability measure, denoted as P, must satisfy two key
 properties: the probability of the whole space is 1, and the probability of the empty event is 0.
-- 
+
+![image](https://github.com/user-attachments/assets/68599e49-3e84-4ea3-9a0c-262edb61c02a)
+
