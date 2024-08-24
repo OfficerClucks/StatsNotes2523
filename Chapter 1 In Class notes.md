@@ -36,5 +36,12 @@ Challenges of the Bayesian View:
 - Subjectivity in Prior Probability
 ---
 # Axiomatic Approach
-All of the approaches use define probability between 0 - 1.
+All of the approaches use a defined probability between 0 - 1.
 If we used 
+
+1. Non-negative Axiom: For any event A the probability of A is greater than or equal to 0 *P(A)≥0*
+-In other words, the likelihood of an event occurring cannot be negative – it is inherently positive or zero.
+2. Normalization or unit measure Axiom: For the entire sample space *S* is equal to 1. *P(S)=1*
+- the normalization axiom guarantees that the total prob of all possible outcomes is 1
+3. 
+
