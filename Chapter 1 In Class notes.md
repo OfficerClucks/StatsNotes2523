@@ -64,11 +64,28 @@ A **Set** is a collection of elements
  - Sets are always in capital letters
 An **Element** is something inside a set
  - Elements are typically denoted with lowercase letters
+
 x ∈ A x is an element of A 
 x ∉ A x is not an element of A
 
+The **Universal set** Ω is the set of all elements that could possibly be considered
+ - Depends on the contest of the set
+   - For tossing a coin Ω = {H,T}
+   - For Dice Ω = {1,2,3,4,5,6}
+   - For noise voltage Ω = {𝑥: −1 ≤ 𝑥 ≤ 1}
 
+The **Subset** is a set in which every element of that set is an element in another set
+ -Specifically, 𝐴 ⊂ 𝐵 if every member of 𝐴 is a member of 𝐵
+  - Note that we can use the definition of subsets to define set equality: 𝐴 = 𝐵 if and only if (iff) 𝐴 ⊂ 𝐵 and B ⊂ 𝐴
 
+The **Null** ∅ set is an empty set.
+ - The null set is a subset of every set
+
+## An Event
+
+A Subset of Ω is called an Event
+ - Events are groups of possible distinct outcomes. Distinct does not mean exclusive.
+  - An example would be A = {1,2,6} B = {4,3,2} are said to be events defined by the sample space Ω = {1,2,3,4,5,6}
 
 
 
