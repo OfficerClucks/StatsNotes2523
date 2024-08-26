@@ -30,7 +30,8 @@ Challenges of relative frequency:
 - Probability can only be measured in terms of a measurement dependent error but the error is defined as a probability.
   
 **The Bayesian View (Belief View):** 
-It asserts that probability reflects individual beliefs, a departure from the notion of an objective frequency governing events. 
+It asserts that probability reflects individual beliefs, a departure from the notion of an objective frequency governing events. Probability reflects beliefs symmetry makes a coin fair, and predicting 50% heads in further tosses is a belief. Most people get that if you flip a fair coin, there's an equal chance it lands heads or tails – 1 out of 2 or ½.
+
 Challenges of the Bayesian View:
 - Is a combo of the challenges of the last two
 - Subjectivity in Prior Probability
@@ -41,7 +42,12 @@ If we used
 
 1. Non-negative Axiom: For any event A the probability of A is greater than or equal to 0 *P(A)≥0*
 -In other words, the likelihood of an event occurring cannot be negative – it is inherently positive or zero.
+
 2. Normalization or unit measure Axiom: For the entire sample space *S* is equal to 1. *P(S)=1*
 - the normalization axiom guarantees that the total prob of all possible outcomes is 1
-3. 
+
+3. Additivity (or Sigma-Additivity) Axiom: For any sequence of mutually exclusive events A1,A2,A3,..., the probability of their union is the sum of their individual probabilities:
+![image](https://github.com/user-attachments/assets/071fd805-c89f-4e42-a5f7-2ecb64890ea2)
+- The additivity axiom allows us to calculate probabilities for complex events by summing the probabilities of simpler, mutually exclusive events.
+
 
