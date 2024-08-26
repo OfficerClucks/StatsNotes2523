@@ -60,6 +60,47 @@ These are another perspective of the above axioms.
  - The complement of event A happening is everything that happens when not A
 3. Numeric Bound: The numeric bound on probabilities states that probabilities always lie between zero and one, inclusive. This fundamental property reflects the inherent limitations of probabilistic reasoning, where probabilities quantify degrees of belief or uncertainty ranging from complete impossibility (zero probability) to absolute certainty (probability one).
 
+A **Set** is a collection of elements
+ - Sets are always in capital letters
+An **Element** is something inside a set
+ - Elements are typically denoted with lowercase letters
+x ∈ A x is an element of A 
+x ∉ A x is not an element of A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Examples
 Coin Flip example with the axioms:
 Variables H (Heads), T (Tails)
