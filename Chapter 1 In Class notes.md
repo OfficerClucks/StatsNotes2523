@@ -41,13 +41,15 @@ All of the approaches use a defined probability between 0 - 1.
 If we used 
 
 1. Non-negative Axiom: For any event A the probability of A is greater than or equal to 0 *P(A)≥0*
--In other words, the likelihood of an event occurring cannot be negative – it is inherently positive or zero.
+ -In other words, the likelihood of an event occurring cannot be negative – it is inherently positive or zero.
 
 2. Normalization or unit measure Axiom: For the entire sample space *S* is equal to 1. *P(S)=1*
-- the normalization axiom guarantees that the total prob of all possible outcomes is 1
+ - The normalization axiom guarantees that the total prob of all possible outcomes is 1
 
 3. Additivity (or Sigma-Additivity) Axiom: For any sequence of mutually exclusive events A1,A2,A3,..., the probability of their union is the sum of their individual probabilities:
+   
 ![image](https://github.com/user-attachments/assets/071fd805-c89f-4e42-a5f7-2ecb64890ea2)
-- The additivity axiom allows us to calculate probabilities for complex events by summing the probabilities of simpler, mutually exclusive events.
+
+ - The additivity axiom allows us to calculate probabilities for complex events by summing the probabilities of simpler, mutually exclusive events.
 
 
