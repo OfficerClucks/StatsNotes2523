@@ -84,8 +84,8 @@ The **Null** ∅ set is an empty set.
 ## An Event
 
 A Subset of Ω is called an Event
- - Events are groups of possible distinct outcomes. Distinct does not mean exclusive.
-  - An example would be A = {1,2,6} B = {4,3,2} are said to be events defined by the sample space Ω = {1,2,3,4,5,6}
+- Events are groups of possible distinct outcomes. Distinct does not mean exclusive.
+ - An example would be A = {1,2,6} B = {4,3,2} are said to be events defined by the sample space Ω = {1,2,3,4,5,6}
 
 
 
