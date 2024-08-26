@@ -53,4 +53,17 @@ If we used
 
  - The additivity axiom allows us to calculate probabilities for complex events by summing the probabilities of simpler, mutually exclusive events.
 
+These are another perspective of the above axioms. 
+
+1. Monotonicity: The principle of monotonicity states that if one event is a subset of another, then the probability of the subset is less than or equal to the probability of the superset.
+2. Complement Rule: The complement rule states that the probability of the complement of an event is equal to one minus the probability of the event itself
+ - The complement of event A happening is everything that happens when not A
+3. Numeric Bound: The numeric bound on probabilities states that probabilities always lie between zero and one, inclusive. This fundamental property reflects the inherent limitations of probabilistic reasoning, where probabilities quantify degrees of belief or uncertainty ranging from complete impossibility (zero probability) to absolute certainty (probability one).
+
+## Examples
+Coin Flip example with the axioms:
+Variables H (Heads), T (Tails)
+Axiom 1 says that P(H)≥ 0, and P(T) ≥ 0 
+Axiom 2 says that 0 ≤ P(H) ≤ 1 and  0 ≤ P(T) ≤ 1
+Axiom 3 says that P(H,T) = P(H)+P(T)
 
