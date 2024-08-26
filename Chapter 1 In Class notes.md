@@ -63,7 +63,10 @@ These are another perspective of the above axioms.
 ## Examples
 Coin Flip example with the axioms:
 Variables H (Heads), T (Tails)
+
 Axiom 1 says that P(H)≥ 0, and P(T) ≥ 0 
+
 Axiom 2 says that 0 ≤ P(H) ≤ 1 and  0 ≤ P(T) ≤ 1
+
 Axiom 3 says that P(H,T) = P(H)+P(T)
 
