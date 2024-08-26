@@ -24,6 +24,7 @@ The Key steps are:
 2. Count Occurrences: In each repetition, count the number of times the event 'A' occurs
 3. Calculate Probability Estimate: Use the formula below.
 ![image](https://github.com/user-attachments/assets/e4117944-013a-45a0-960f-dfabc51ec777)
+
 Challenges of relative frequency:
 - Needs data / to be observed
 - You need infinite repeats of an experiment to make sure you have correct data.
