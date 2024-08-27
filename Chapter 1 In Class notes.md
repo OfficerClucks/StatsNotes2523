@@ -83,10 +83,12 @@ The **Null** ∅ set is an empty set.
 
 ## An Event
 
-A Subset of Ω is called an Event
+A Subset of Ω (Universal Set) is called an Event
 - Events are groups of possible distinct outcomes. Distinct does not mean exclusive.
  - An example would be A = {1,2,6} B = {4,3,2} are said to be events defined by the sample space Ω = {1,2,3,4,5,6}
 
+Set Partition: All of the Subsets are mutually exclusive from each other but still make up the whole universal set. 
+![image](https://github.com/user-attachments/assets/5f61eb51-f2a0-4113-9d5b-ece8f293b8a0)
 
 
 
