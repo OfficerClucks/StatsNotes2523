@@ -90,7 +90,15 @@ A Subset of Ω (Universal Set) is called an Event
 Set Partition: All of the Subsets are mutually exclusive from each other but still make up the whole universal set. 
 ![image](https://github.com/user-attachments/assets/5f61eb51-f2a0-4113-9d5b-ece8f293b8a0)
 
+### Outcome vs Events
 
+Every trial results in only one ***outcome***, that is, only one of the
+elements in 𝑆 can be the observed outcome. The observed outcome is a member of several different
+subsets – or events – and all of these events are said to have
+occurred.
+
+**Fundamental notion**: on each trial of the experiment, one
+outcome occurs, but many events can occur. 
 
 
 
