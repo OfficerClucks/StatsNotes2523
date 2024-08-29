@@ -127,7 +127,6 @@ outcome occurs, but many events can occur.
 
 
 
-
 ## Examples
 Coin Flip example with the axioms:
 Variables H (Heads), T (Tails)
