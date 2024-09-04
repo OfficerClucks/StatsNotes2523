@@ -24,8 +24,14 @@ The product rule can be expressed mathematically as:
 
 𝑇𝑜𝑡𝑎𝑙 𝑛𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑜𝑢𝑡𝑐𝑜𝑚𝑒𝑠 = 𝐧𝟏 × 𝐧𝟐 × ⋯ × 𝐧𝐤
 
-
-
+Product rule assumes:
+-The independance of events
+  - The outcomes of each task or event are independent of eachother.
+- Need a Finite number of choices
+  - Has to be able to be counted
+- Non-Replacement
+  - A choice annot be repeated or replaced in subsequent steps.
+    - Like taking a piece of candy then putting it back  
 
 
 
