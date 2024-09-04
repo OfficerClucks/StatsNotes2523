@@ -35,7 +35,6 @@ Product rule assumes:
 
 
 
-
 - Sum rule: The sum rule serves as a companion to the product rule,
 stepping in when there exist multiple mutually exclusive ways to
 accomplish a task
