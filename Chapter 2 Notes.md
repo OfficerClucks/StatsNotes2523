@@ -84,3 +84,6 @@ surjective. In other words, it establishes a perfect one-to-one
 correspondence between the elements of the domain and the
 elements of the codomain (one to one , and onto)
 
+![image](https://github.com/user-attachments/assets/0c79987a-6906-4d66-896a-db1bcfe73009)
+
+
