@@ -68,7 +68,7 @@ An **Element** is something inside a set
 x ∈ A x is an element of A 
 x ∉ A x is not an element of A
 
-The **Universal set** Ω is the set of all elements that could possibly be considered
+The **Universal set** Ω is the set of all elements that could possibly be considered aslo called the **Sample Set**
  - Depends on the contest of the set
    - For tossing a coin Ω = {H,T}
    - For Dice Ω = {1,2,3,4,5,6}
