@@ -20,6 +20,8 @@ to perform the second task, and so on until the kth task with nk
 ways, then the total number of outcomes is the product of the
 number of ways for each task.
 
+(And) = product rule: set A and Set B 
+
 The product rule can be expressed mathematically as:
 
 𝑇𝑜𝑡𝑎𝑙 𝑛𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑜𝑢𝑡𝑐𝑜𝑚𝑒𝑠 = 𝐧𝟏 × 𝐧𝟐 × ⋯ × 𝐧𝐤
@@ -44,8 +46,11 @@ Here, n1,n2,...,nk represent the number of options or choices available
 for each task or event. The sum of these options yields the total number
 of possible outcomes.
 
+(or) means summation: Set A or Set B
+
 Conditions to use the Sum rule:
 - Mutual exclusivity
+  - like flipping a coin for one experiment then rolling a dice for a different experiment. 
 - Finite set of options
 
 Application of the Sum Rule:
@@ -55,6 +60,7 @@ Application of the Sum Rule:
   - Calculating cumulative possibilites in data
 - Decision Making
   - Weighing alternative options with distinct consequences
+
   
 ---
 
