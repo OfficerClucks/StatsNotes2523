@@ -64,4 +64,23 @@ Application of the Sum Rule:
   
 ---
 
-- Bijections: Bijections, also known as one-to-one correspondences, are fundamental concepts in mathematics that provide a powerful tool for establishing relationships between sets we'll delve into the foundational concepts of counting methods
+- Bijections: Bijections, also known as one-to-one correspondences, are fundamental concepts in mathematics that provide a powerful tool for establishing relationships between sets we'll delve into the foundational concepts of counting methods.
+
+Such a correspondence is often denoted by the symbol " " or represented using functions.
+
+Types of Bijection
+- Injectivity: A bijection is injective if each element in the domain
+maps to a distinct element in the codomain. This property ensures
+that no two distinct elements in the domain are mapped to the same
+element in the codomain. (One to One)
+
+- Surjectivity: A bijection is surjective if every element in the
+codomain is mapped to by at least one element in the domain. This
+property guarantees that there are no "gaps" or "missing elements" in
+the mapping. (Onto) 
+
+- Bijectivity: A bijection is bijective if it is both injective and
+surjective. In other words, it establishes a perfect one-to-one
+correspondence between the elements of the domain and the
+elements of the codomain (one to one , and onto)
+
