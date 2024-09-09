@@ -88,7 +88,7 @@ elements of the codomain (one to one , and onto)
 
 ---
 
-##Three fundamental methods:
+## Three fundamental methods:
 
 - Permutations: Permutations are a fundamental concept in combinatorics,
 providing a framework for understanding the arrangements of objects in a
@@ -102,3 +102,26 @@ discrete objects.
 concept in combinatorics and set theory, serving as a cornerstone for
 systematically counting elements within the union of multiple sets
 
+**Permutations**
+- This concept encapsulates the essence of orderliness,
+illustrating how objects can be systematically
+organized to create distinct configurations.
+
+- The significance of arrangement lies in the fact that
+the order of objects matters.
+
+-  By systematically rearranging objects, we uncover
+new configurations and patterns, each with its own
+distinct characteristics.
+
+![image](https://github.com/user-attachments/assets/2f1d0833-9392-4769-bbb8-8c95e4921dfa)
+
+Here's a breakdown of the components:
+- n! represents the factorial of n, which is the product of all positive
+integers up to n.
+
+- (n−k)! represents the factorial of n−k, capturing the number of
+permutations of the remaining objects.
+
+- The division n!/(n−k)! ensures that repetitions and order are considered
+in the arrangement.
