@@ -125,3 +125,18 @@ permutations of the remaining objects.
 
 - The division n!/(n−k)! ensures that repetitions and order are considered
 in the arrangement.
+
+---
+Binomial Coefficients
+
+Binomial coefficients are fundamental in combinatorics and represent the
+number of ways to choose k elements from a set of n distinct elements,
+regardless of the order.
+
+Binomial coefficients provide a method to calculate the number of
+combinations (unordered selections) of k elements from a set of n distinct
+elements.
+
+Formula:
+
+![image](https://github.com/user-attachments/assets/ec926193-b2d6-487a-b389-f22fb0c0ed9b)
