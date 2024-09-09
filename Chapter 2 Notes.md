@@ -140,3 +140,5 @@ elements.
 Formula:
 
 ![image](https://github.com/user-attachments/assets/ec926193-b2d6-487a-b389-f22fb0c0ed9b)
+
+The (n-k)! is used to cancel out the top half of the numerator.
