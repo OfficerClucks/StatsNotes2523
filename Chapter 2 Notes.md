@@ -86,4 +86,19 @@ elements of the codomain (one to one , and onto)
 
 ![image](https://github.com/user-attachments/assets/0c79987a-6906-4d66-896a-db1bcfe73009)
 
+---
+
+##Three fundamental methods:
+
+- Permutations: Permutations are a fundamental concept in combinatorics,
+providing a framework for understanding the arrangements of objects in a
+specific order
+
+- Combinations: Combinations play a central role in combinatorics, the
+branch of mathematics concerned with counting, arranging, and analyzing
+discrete objects.
+
+- Inclusion-Exclusion: The Inclusion-Exclusion Principle is a profound
+concept in combinatorics and set theory, serving as a cornerstone for
+systematically counting elements within the union of multiple sets
 
