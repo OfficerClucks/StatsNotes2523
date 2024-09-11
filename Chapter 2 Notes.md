@@ -143,6 +143,8 @@ Formula:
 
 The (n-k)! is used to cancel out the top half of the numerator.
 
+---
+
 Probability Distribution:
 
 • A probability distribution describes the likelihood of each value
@@ -160,3 +162,26 @@ Continuous Probability Distribution:
 • Describes the probabilities associated with intervals of values
 of a continuous random variable. Common examples include
 the normal (Gaussian) and exponential distributions.
+
+Probability Mass Function (PMF):
+
+• For discrete random variables, the PMF gives
+the probability of each possible value.
+
+Probability Density Function (PDF):
+
+• For continuous random variables, the PDF
+specifies the density of probabilities over
+intervals of values.
+
+Cumulative Distribution Function (CDF):
+
+• Provides the probability that a random variable
+is less than or equal to a certain value.
+
+Expected Value and Variance:
+
+• Measures of central tendency and variability
+for random variables, representing the mean
+and spread of the distribution, respectively.
+
