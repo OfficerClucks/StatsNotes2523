@@ -186,13 +186,6 @@ is less than or equal to a certain value.
 for random variables, representing the mean
 and spread of the distribution, respectively.
   - The expected value doesn't have to be one of your outcomes.
-    - Linearity: The expectation of a linear combination
-      of random variables is equal to the linear
-      combination of their individual expectations. That
-        is, for constants a and b and random
-        variables X and Y, we have E(aX+bY)=aE(X)+bE(Y).
-    - Monotonicity: If X and Y are random variables
-such that X≤Y for all outcomes, then E(X)≤E(Y).
-    - Translational Invariance: Adding a constant c to a
-random variable X shifts its expectation by the same
-constant. That is, E(X+c)=E(X)+c.
+    - **Linearity:** The expectation of a linear combination of random variables is equal to the linear combination of their individual expectations. That is, for constants a and b and random variables X and Y, we have E(aX+bY)=aE(X)+bE(Y).
+    - **Monotonicity:** If X and Y are random variables such that X≤Y for all outcomes, then E(X)≤E(Y).
+    - **Translational Invariance:** Adding a constant c to a random variable X shifts its expectation by the same constant. That is, E(X+c)=E(X)+c.
