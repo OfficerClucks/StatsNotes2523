@@ -144,42 +144,43 @@ Formula:
 The (n-k)! is used to cancel out the top half of the numerator.
 
 ---
+## Fundamental Concepts
 
-Probability Distribution:
+**Probability Distribution:**
 
 • A probability distribution describes the likelihood of each value
 of a random variable. It specifies the probabilities associated
 with each possible outcome.
 
-Discrete Probability Distribution:
+**Discrete Probability Distribution:**
 
 • Assigns probabilities to each possible value of a discrete
 random variable. Examples include the Bernoulli, binomial,
 and Poisson distributions.
 
-Continuous Probability Distribution:
+**Continuous Probability Distribution:**
 
 • Describes the probabilities associated with intervals of values
 of a continuous random variable. Common examples include
 the normal (Gaussian) and exponential distributions.
 
-Probability Mass Function (PMF):
+**Probability Mass Function (PMF):**
 
 • For discrete random variables, the PMF gives
 the probability of each possible value.
 
-Probability Density Function (PDF):
+**Probability Density Function (PDF):**
 
 • For continuous random variables, the PDF
 specifies the density of probabilities over
 intervals of values.
 
-Cumulative Distribution Function (CDF):
+**Cumulative Distribution Function (CDF):**
 
 • Provides the probability that a random variable
 is less than or equal to a certain value.
 
-Expected Value and Variance:
+**Expected Value and Variance:**
 
 • Measures of central tendency and variability
 for random variables, representing the mean
