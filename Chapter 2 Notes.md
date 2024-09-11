@@ -185,4 +185,4 @@ is less than or equal to a certain value.
 • Measures of central tendency and variability
 for random variables, representing the mean
 and spread of the distribution, respectively.
-
+  - The expected value doesn't have to be one of your outcomes.
