@@ -143,3 +143,20 @@ Formula:
 
 The (n-k)! is used to cancel out the top half of the numerator.
 
+Probability Distribution:
+
+• A probability distribution describes the likelihood of each value
+of a random variable. It specifies the probabilities associated
+with each possible outcome.
+
+Discrete Probability Distribution:
+
+• Assigns probabilities to each possible value of a discrete
+random variable. Examples include the Bernoulli, binomial,
+and Poisson distributions.
+
+Continuous Probability Distribution:
+
+• Describes the probabilities associated with intervals of values
+of a continuous random variable. Common examples include
+the normal (Gaussian) and exponential distributions.
