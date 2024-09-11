@@ -186,6 +186,22 @@ is less than or equal to a certain value.
 for random variables, representing the mean
 and spread of the distribution, respectively.
   - The expected value doesn't have to be one of your outcomes.
-    - **Linearity:** The expectation of a linear combination of random variables is equal to the linear combination of their individual expectations. That is, for constants a and b and random variables X and Y, we have E(aX+bY)=aE(X)+bE(Y).
+    - **Linearity:** The expectation of a linear combination of random variables is equal to the linear combination of their individual expectations.
+      That is, for constants a and b and random variables X and Y, we have E(aX+bY)=aE(X)+bE(Y).
     - **Monotonicity:** If X and Y are random variables such that X≤Y for all outcomes, then E(X)≤E(Y).
     - **Translational Invariance:** Adding a constant c to a random variable X shifts its expectation by the same constant. That is, E(X+c)=E(X)+c.
+
+**Variance**
+- **Linearity of Variance:** The variance of a linear
+combination of random variables is equal to the
+sum of the variances of the individual variables
+plus twice the covariance between them. That is,
+for constants a and b and random
+variables X and Y, we have 𝑉𝑎𝑟 𝑎𝑋 + 𝑏𝑌 = 𝑎2𝑉𝑎𝑟 𝑋 + 𝑏2𝑉𝑎𝑟 𝑌 + 2𝑎𝑏𝐶𝑜𝑣 (𝑋, 𝑌).
+
+- **Non-Negativity:** The variance of a random variable
+is always non-negative, i.e., Var(X)≥0.
+
+- **Homogeneity of Variance:** Multiplying a random
+variable X by a constant c scales its variance by 𝑐2.
+That is, 𝑉𝑎𝑟(𝑐𝑋) = 𝑐2𝑉𝑎𝑟(𝑋).
