@@ -221,4 +221,19 @@ The multinomial coefficient is calculated using the formula:
 
 ![image](https://github.com/user-attachments/assets/8965d10f-5f85-413f-ae08-f0d23185fc07)
 
+--- 
+## Combinations 
+
+![image](https://github.com/user-attachments/assets/0ad491bd-665e-4238-9bc9-806a70b283a3)
+
+Here's what each component of the formula represents:
+
+- n! (read as "n factorial") represents the factorial of n, which is the
+product of all positive integers from 1 to n.
+
+- k! represents the factorial of k, similarly defined as the product of all
+positive integers from 1 to k.
+
+- (n−k)! represents the factorial of n−k, which is the product of all
+positive integers from 1 to n−k
 
