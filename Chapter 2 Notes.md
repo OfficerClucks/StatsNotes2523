@@ -205,3 +205,20 @@ is always non-negative, i.e., Var(X)≥0.
 - **Homogeneity of Variance:** Multiplying a random
 variable X by a constant c scales its variance by 𝑐2.
 That is, 𝑉𝑎𝑟(𝑐𝑋) = 𝑐2𝑉𝑎𝑟(𝑋).
+
+---
+### Multinomial Coefficients
+Multinomial coefficients extend the concepts of binomial coefficients and
+permutations with repetition to scenarios where a set of objects is divided
+into multiple categories, and objects within each category may be
+indistinguishable.
+
+Multinomial coefficients allow us to count the number of ways to arrange a
+set of objects when they are divided into multiple categories, and objects
+within each category are identical.
+
+The multinomial coefficient is calculated using the formula:
+
+![image](https://github.com/user-attachments/assets/8965d10f-5f85-413f-ae08-f0d23185fc07)
+
+
