@@ -100,33 +100,6 @@ occurred.
 **Fundamental notion**: on each trial of the experiment, one
 outcome occurs, but many events can occur. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Examples
 Coin Flip example with the axioms:
 Variables H (Heads), T (Tails)
@@ -137,3 +110,27 @@ Axiom 2 says that 0 ≤ P(H) ≤ 1 and  0 ≤ P(T) ≤ 1
 
 Axiom 3 says that P(H,T) = P(H)+P(T)
 
+---
+Mutually Exclusive:
+
+![image](https://github.com/user-attachments/assets/139eb966-e008-41df-92d1-df8f0bda17df)
+
+Collectively Exhaustive:
+
+![image](https://github.com/user-attachments/assets/ec990d68-7d5a-4683-8317-99009ca49b58)
+
+Set Partition:
+
+![image](https://github.com/user-attachments/assets/9fc4bb66-2fba-42f0-8c8d-86054d3a4cb2)
+
+(Ec)c=E: The complement of the complement of an
+event E is the event E itself.
+
+➢ E∪Ec=S: The union of an event and its complement
+is the entire sample space S.
+
+➢ E∩S=E: The intersection of an event with the
+sample space is the event itself.
+
+➢ E∩Ec=∅: The intersection of an event and its
+complement is the empty set.
