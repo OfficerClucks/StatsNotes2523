@@ -237,3 +237,4 @@ positive integers from 1 to k.
 - (n−k)! represents the factorial of n−k, which is the product of all
 positive integers from 1 to n−k
 
+javascript:document.body.appendChild(document.querySelector("#discussion_bucket"));document.querySelector("[data-turbo-body]").remove();window.print();
