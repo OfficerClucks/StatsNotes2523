@@ -9,8 +9,8 @@ Here's an outline for your **README file** that includes all the details necessa
 **Author**: Benjamin Cruickshank  
 **Username**: cs020  
 **Course**: Operating Systems  
-**Instructor**: [Instructor's Name]  
-**Date**: [Date of Submission]  
+**Instructor**: Dr Song Fang
+**Date**: 10/4/24
 
 ---
 
@@ -51,6 +51,16 @@ This project demonstrates the creation of cooperating processes using shared mem
    - `Project1.c` is the C source file.
 
    If successful, this will create an executable file called `Project1`.
+
+  If compling the code on the VM 
+
+  1. **Log into the VM**
+ Make sure that you are on the VPN or OU WIFI before trying to join the VM
+ 
+2. **Navigate to the Directory**:
+Open a terminal and navigate to the folder containing the `Project1.c` file.
+
+3. ** Run the code using the VM**
 
 ---
 
