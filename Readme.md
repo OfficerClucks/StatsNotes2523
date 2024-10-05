@@ -112,10 +112,8 @@ Open a terminal and navigate to the folder containing the `Project1.c` file.
 ## **Troubleshooting**
 
 - **Shared Memory Error**: If you encounter `shmget error` or `shmat error`, ensure that your system has sufficient shared memory resources available.
-- **Fork Failure**: If the fork fails with "Fork failed", check your system's process limits using:
-   ```bash
-   ulimit -u
-   ```
+- **Fork Failure**: If the fork fails with "Fork failed", check your system's process limits.
+
 
 ---
 
