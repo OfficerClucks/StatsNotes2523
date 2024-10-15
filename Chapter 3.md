@@ -33,3 +33,13 @@ Bayes' theorem provides a systematic framework for revising beliefs or predictio
 ![image](https://github.com/user-attachments/assets/b7792919-9de0-4bbd-b28a-b686c393b966)
 
 The theorem is derived from the definition of conditional probability and the multiplication rule
+
+P(A∣B) represents the conditional probability of event A given
+event B (posterior probability),
+
+P(B∣A) is the conditional probability of event B given event A,
+
+P(A) is the prior probability of event A,
+
+P(B) is the prior probability of event B.
+
